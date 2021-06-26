@@ -17,6 +17,3 @@ function SinhVien(_ma, _ten, _email, _matKhau, _ngaySinh, _khoaHoc, _dToan, _dLy
 
 // Khởi tạo đối tượng sinh viên
 var sv1 = new SinhVien('PS14316', 'Đức', 'ducthanh.developer@gmail.com', '12345', '17/02/1999', 'fe68', 8, 9, 10);
-console.log(sv1);
-
-console.log(this)
